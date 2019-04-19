@@ -43,24 +43,6 @@ adequada para este projeto.
 Adicionalmente, a documentação da classe [`Console`] explica como usar cores na consola, bem como posicionar carateres em locais específicos. O uso de
 carateres [Unicode] poderá também facilitar a visualização do jogo.
 
-## Extensão opcional
-
-Os alunos podem adicionalmente implementar a variante rápida do jogo, tal como
-explicado no final das [regras]. Esta variante é um modo de jogo **extra**, que
-deve ser especificado com a opção `--quick` na linha de comandos, da seguinte
-forma:
-
-```text
-dotnet run -- --quick
-```
-
-A opção `--` serve para separar entre as opções do comando `dotnet` e as opções
-do programa a ser executado, neste caso o nosso jogo. Senão forem indicadas
-quaisquer opções, o jogo deve ser jogado de acordo com as [regras] base.
-
-A implementação da extensão opcional pode compensar eventuais problemas noutras
-partes do projeto, facilitando a obtenção da nota máxima de 3 valores.
-
 <a name="objetivos"></a>
 
 ## Objetivos e critério de avaliação
@@ -145,6 +127,24 @@ seguintes conteúdos:
 * Ficheiro `README.md` contendo o relatório do projeto em formato [Markdown].
 * Ficheiros de imagem contendo o fluxograma e o diagrama UML de classes.
   Estes ficheiros podem ser incluídos no repositório em modo Git LFS.
+
+## Extensão opcional
+
+Os alunos podem adicionalmente implementar a variante rápida do jogo, tal como
+explicado no final das [regras]. Esta variante é um modo de jogo **extra**, que
+deve ser especificado com a opção `--quick` na linha de comandos, da seguinte
+forma:
+
+```text
+dotnet run -- --quick
+```
+
+A opção `--` serve para separar entre as opções do comando `dotnet` e as opções
+do programa a ser executado, neste caso o nosso jogo. Senão forem indicadas
+quaisquer opções, o jogo deve ser jogado de acordo com as [regras] base.
+
+A implementação da extensão opcional pode compensar eventuais problemas noutras
+partes do projeto, facilitando a obtenção da nota máxima de 3 valores.
 
 ## Honestidade académica
 
