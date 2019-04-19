@@ -95,7 +95,7 @@ Este projeto tem os seguintes objetivos:
     * O relatório deve ser simples e breve, com informação mínima e suficiente
       para que seja possível ter uma boa ideia do que foi feito.
     * Atenção aos erros ortográficos, pois serão tidos em conta na nota final.
-    * Atenção à formatação Markdown, pois será tida em conta na nota final
+    * Atenção à formatação [Markdown], pois será tida em conta na nota final.
     * Se usarem o [Visual Studio Code] para fazer o relatório, façam uso da
       [extensão de correção ortográfica][VSCodeSpellCheck]
       (e o seu dicionário de [Português][VSCodeSpellCheckPT]) e [extensões para
@@ -117,16 +117,16 @@ não comparecerem na discussão, a nota final será zero.
 ## Entrega
 
 O projeto deve ser entregue por **grupos de 2 ou 3 alunos** via Moodle até às
-23h de 9 de maio de 2019. Deve ser submetido um ficheiro `zip` com os seguintes
-conteúdos:
+**23h de 9 de maio de 2019**. Deve ser submetido um ficheiro `zip` com os
+seguintes conteúdos:
 
-* Solução completa do projeto, contendo adicionalmente e obrigatoriamente:
-  * Pasta escondida `.git` com o repositório Git local do projeto.
-  * Documentação HTML ou CHM gerada com [Doxygen], [Sandcastle] ou ferramenta
-    similar \[[4][ref4]\].
-  * Ficheiro `README.md` contendo o relatório do projeto em formato [Markdown].
-  * Ficheiros de imagem contendo o fluxograma e o diagrama UML de classes.
-    Estes ficheiros podem ser incluídos no repositório em modo Git LFS.
+* Solução ou projeto Visual Studio com implementação do jogo.
+* Pasta escondida `.git` com o repositório Git local do projeto.
+* Documentação HTML ou CHM gerada com [Doxygen], [Sandcastle] ou ferramenta
+  similar \[[4][ref4]\].
+* Ficheiro `README.md` contendo o relatório do projeto em formato [Markdown].
+* Ficheiros de imagem contendo o fluxograma e o diagrama UML de classes.
+  Estes ficheiros podem ser incluídos no repositório em modo Git LFS.
 
 ## Honestidade académica
 
@@ -160,7 +160,7 @@ Estruturas de Dados][aed] do [Instituto Superior Técnico][ist]*
 
 ## Referências
 
-* <a name="ref1">\[1\]</a> **18 Ghosts** (2014). Retrieved from
+* <a name="ref1">\[1\]</a> **18 Ghosts** (2010). Retrieved from
   <https://boardgamegeek.com/boardgame/70116/18-ghosts>.
 * <a name="ref2">\[2\]</a> Whitaker, R. B. (2016). **The C# Player's Guide**
   (3rd Edition). Starbound Software.
