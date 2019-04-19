@@ -183,7 +183,7 @@ Este enunciado é disponibilizados através da licença [CC BY-NC-SA 4.0][].
 [ref3]:#ref3
 [ref4]:#ref4
 [ref5]:#ref5
-[regras]:https://boardgamegeek.com/file/download_redirect/d60f8199452cc48bf2d3d4e60dcaf48de484f3e2e1f5d108/18GHOSTS_EN_r1.pdf
+[regras]:https://secure.grupolusofona.pt/ulht/moodle/pluginfile.php/555001/mod_assign/introattachment/0/18GHOSTS_EN_r1.pdf?forcedownload=1
 [CC BY-NC-SA 4.0]:https://creativecommons.org/licenses/by-nc-sa/4.0/
 [lamv]:https://www.ulusofona.pt/licenciatura/videojogos
 [Nuno Fachada]:https://github.com/fakenmc
