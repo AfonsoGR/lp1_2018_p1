@@ -49,7 +49,9 @@ carateres [Unicode] poderá também facilitar a visualização do jogo.
 
 Este projeto tem os seguintes objetivos:
 
-* **O1** - Jogo deve funcionar de acordo com as [regras].
+* **O1** - Jogo deve funcionar de acordo com as [regras]. Podem assumir que o
+  jogador sabe as regras, mas deve existir uma legenda explicando o que
+  significa cada caráter (fantasmas, portais, etc).
 * **O2** - Projeto e código bem organizados, nomeadamente:
   * Estrutura de classes bem pensada (ver secção [Organização do projeto e
     estrutura de classes](#orgclasses)).
