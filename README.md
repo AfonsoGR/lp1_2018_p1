@@ -25,6 +25,13 @@ exemplo, .NET Framework, Unity, Windows Forms, etc.
 
 Os grupos podem ter entre 2 a 3 elementos.
 
+## Sugestão para desenvolvimento inicial
+
+Poderá ser útil criar o jogo fisicamente, incluindo tabuleiro e peças jogáveis,
+bem como realizar alguns jogos. Esta abordagem inicial permite desenvolver uma
+melhor noção do jogo, facilitando o posterior planeamento e implementação em
+C#.
+
 <a name="orgclasses"></a>
 
 ## Organização do projeto e estrutura de classes
