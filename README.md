@@ -197,7 +197,7 @@ Estruturas de Dados][aed] do [Instituto Superior Técnico][ist]*
 
 ## Licenças
 
-Este enunciado é disponibilizados através da licença [CC BY-NC-SA 4.0][].
+Este enunciado é disponibilizado através da licença [CC BY-NC-SA 4.0].
 
 ## Metadados
 
